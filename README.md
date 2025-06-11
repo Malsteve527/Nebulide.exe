@@ -1,5 +1,5 @@
 # Nebulide.exe
-This is a GDI malware I created in about 2 weeks. It will show effects and play sounds. Watch my video demonstrating this trojan: https://www.youtube.com/watch?v=eSx9CHh1xKA&t=131s
+This is a GDI malware I created in about 2 weeks. It will show effects and play sounds. Watch my video demonstrating this trojan: https://www.youtube.com/watch?v=eSx9CHh1xKA
 
 Do not steal any of my code without crediting me!
 
